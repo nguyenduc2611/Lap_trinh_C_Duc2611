@@ -1,4 +1,7 @@
 Chuyen_doi_tu_nhiet_do_Fahreneit_sang_Selsius
+<<<<<<< HEAD
+yeu cau:
+=======
 Yêu cầu: Chuyển đổi từ nhiệt độ Fahreneit sang Selsius theo công thức:
 
 C = 5*(F - 32) / 9
@@ -12,3 +15,4 @@ Phân tích:
 – Chuyển đổi từ nhiệt độ F sang nhiệt độ C theo công thức trên
 
 – Hiển thị kết quả ra màn hình
+>>>>>>> master
