@@ -1,0 +1,11 @@
+Tách các chữ số thuộc hàng trăm, hàng chục, hàng đơn vị
+Yêu cầu:
+
+– Viết chương trình nhập vào số nguyên 3 chữ số (từ 100 – 999), sau đó in ra các chữ số thuộc hàng trăm, hàng chục, hàng đơn vị.
+
+
+Phân tích:
+
+– Nhập vào số nguyên (100 <= x <= 999).
+
+– số hàng trăm = x / 100, số hàng chục = (x%100)/10, số hàng đơn vị = (x%100)%10

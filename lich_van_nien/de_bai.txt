@@ -1,0 +1,8 @@
+Yêu cầu:
+Viết chương trình nhập ngày, tháng, năm.
+– Tháng có bao nhiêu ngày
+– Tìm ngày trước ngày vừa nhập.
+– Tìm ngày sau ngày vừa nhập
+
+Giải thuật:
+– Dùng tập lệnh C cơ bản
