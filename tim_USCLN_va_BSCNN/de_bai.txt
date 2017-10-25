@@ -1,0 +1,6 @@
+Tìm ước số chung lớn nhất và bội số chung nhỏ nhất của 2 số a,b
+Yêu cầu:
+
+– Nhập 2 số nguyên a,b.
+a. Tìm USC lớn nhất của 2 số đó
+b. Tìm bội số chung nhỏ nhất của 2 số đó
