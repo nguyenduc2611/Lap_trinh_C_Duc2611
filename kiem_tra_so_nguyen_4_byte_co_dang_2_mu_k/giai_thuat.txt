@@ -1,0 +1,6 @@
+
+Giải thuật:
+– Dùng vòng lặp tăng dần biến k, thực hiện p = p*2
+– So sánh số nguyên N với p
++ Nếu N == p -> N có dạng 2^k
++ Nếu N < p -> N không có dang 2^k

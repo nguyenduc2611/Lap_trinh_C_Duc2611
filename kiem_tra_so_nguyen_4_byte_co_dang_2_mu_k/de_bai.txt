@@ -1,0 +1,3 @@
+Kiểm tra số nguyên 4 byte có dạng 2^k không?
+Yêu cầu:
+Kiểm tra số nguyên N 4 byte có dạng 2^k không?
