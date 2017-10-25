@@ -1,0 +1,5 @@
+Xác định góc phần tư thứ mấy trên đường tròn lượng giác
+Yêu cầu: 
+
+Viết chương trình nhập vào số nguyên chỉ số đo độ của một góc và cho biết nó thuộc góc phần tư thứ mấy trên đường tròn lượng giác
+Nhập vào số đo lượng giác bất kỳ ( x > 0).

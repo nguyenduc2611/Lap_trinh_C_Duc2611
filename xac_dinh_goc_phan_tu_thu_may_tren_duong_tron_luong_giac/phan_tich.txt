@@ -1,0 +1,7 @@
+Xác định cung lượng giác theo điều kiện dưới đây:
+
+Góc phần tư thứ I: (360*k) <= x < (90 + 360*k)
+Góc phần tư thứ II: (90 + 360*k) <= x < (180 + 360*k)
+Góc phần tư thứ III: (180 + 360*k) <= x < (270 + 360*k)
+Góc phần tư thứ III: (270 + 360*k) <= x < 360*(k+1)
+(k = 0, 1, 2,...)
