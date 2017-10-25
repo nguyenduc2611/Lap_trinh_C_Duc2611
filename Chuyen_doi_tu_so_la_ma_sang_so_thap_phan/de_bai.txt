@@ -1,1 +1,29 @@
 Chuyen_doi_tu_so_la_ma_sang_so_thap_phan
+Bảng số la mã và một số quy tắc chuyển đổi.
+1. Bảng số la mã
+
+I   V   X   L   C   D   M
+1   5   10  50  100 500 1000
+
+
+2. Quy tắc chuyển đổi
+a/ Số thập phân được cấu thành từ các chữ số đơn lẻ. Ví dụ: 1989 được ghép bởi 1,9,0,8. Còn đối với cách biểu diễn chữ số la mã thì mỗi chữ số khác 0 ở mỗi hàng ( hàng đơn vị, hàng chục, hàng trăm,…) sẽ được biểu diễn bởi 1 kí tự số la mã. 1000 = M, 900 = CM, 0 không được biểu diễn, 8 = VIII. 1908 = MCMVIII
+
+b/ “I”, “X”, “C”, “M” có thể được xuất hiện liên tiếp (cạnh nhau) tối đa 3 lần. Tuy nhiên, các kí tự này có thể xuất hiện nhiều hơn. (Ví dụ: XXXIX). Các kí tự “D”, “L”, “V” không được phép lặp lại.
+
+c/
+Chữ số đi sau chữ số khác lớn hơn hoặc bằng thì cộng thêm vào:
+VI = V + I = 5 + 1 = 6
+LX = L + X = 50 + 10 = 60
+XX = X + X = 10 + 10 = 20
+
+Chữ số đi trước chữ số khác lớn hơn thì trừ bớt đi:
+IV = V – I = 5 – 1
+XL = L – X = 50 – 10 = 40
+
+“I” chỉ có thể bị trừ bởi “V”, “X”. ( IV = V – I = 5 – 1 = 4, IX = X – I = 10 – 1 = 9)
+“X” chỉ có thể bị trừ bởi “C”, “L”. ( XC = 100 – 10 = 90, XL = 50 – 10 = 40)
+“C” chỉ có thể bị trừ bởi “D” và “M”. (CD = 500 – 100 = 400, CM = 1000)
+“V”, “L”, “D” không bao giờ bị trừ.
+
+d/ Nếu thêm 1 dấu gạch ngang trên đầu thì giá trị của nó bằng giá trị hiện tại nhân với 1000
