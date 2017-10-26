@@ -6,7 +6,7 @@ Yêu cầu: Chuyển đổi từ nhiệt độ Fahreneit sang Selsius theo công
 
 C = 5*(F - 32) / 9
 C: nhiệt độ C
-F: nhiệt độ F
+F: nhiệt độ F.
 
 Phân tích: 
 
