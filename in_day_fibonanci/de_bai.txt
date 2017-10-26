@@ -1,0 +1,5 @@
+Yêu cầu:
+
+Viết chương trình in dãy số Fibonanci nhỏ hơn giá trị N. Biết rằng:
+f(0) = f(1) = 1
+f(n) = f(n – 1) + f(n – 2)
