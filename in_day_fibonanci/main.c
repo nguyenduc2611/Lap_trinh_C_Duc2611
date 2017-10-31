@@ -8,7 +8,7 @@ int main()
 	int i=1;
 	int* p;
 	p = (int *) calloc(100, sizeof(int));
-	printf("nhap so n: ");
+	printf("nhap so n la: ");
 	scanf("%d", &n);
 	*p =*(p+1)= 1;
 	while (*(p+i)<n)
