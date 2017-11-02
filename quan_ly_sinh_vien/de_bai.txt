@@ -1,0 +1,11 @@
+Yêu cầu:
+
+Quản lý sinh viên với thông tin của mỗi sinh viên như sau:
+– Tên
+– Lớp
+– Điểm Toán
+– Điểm Lý
+– Điểm Hóa
+Chương trình có thêm các chức năng sau:
+– Tìm kiếm thông tin sinh viên
+– Chỉnh sửa thông tin sinh viên
